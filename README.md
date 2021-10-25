@@ -6,5 +6,3 @@ Requirements
 - Implement unit tests where neccessary
 - Find and fix hidden bugs
 
-How to contribute
-- Make a PR to this repository with your improvements
