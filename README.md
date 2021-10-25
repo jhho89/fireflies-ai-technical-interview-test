@@ -1,2 +1,2 @@
-# fireflies-ai-technical-interview-2
+# fireflies-ai-technical-interview-test
 Fireflies.ai quick technical exercise 
